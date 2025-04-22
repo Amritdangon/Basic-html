@@ -4,6 +4,6 @@
   <title>first html Program</title>
 </head>
 <body bgcolor="yellow">
-  <h6>hello<h6>
+  <h2>hello<h2>
 </body>
 </html>
